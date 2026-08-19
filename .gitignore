@@ -1,0 +1,16 @@
+# intermediate/cache artifacts produced by scripts/05-09 (large, fully
+# reproducible from data/processed/ -- not meant to be committed)
+.cache/
+__pycache__/
+*.pyc
+
+# common OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# QGIS auxiliary/lock files
+*.qgz~
+*.gpkg-wal
+*.gpkg-shm
+*.qgs.lock

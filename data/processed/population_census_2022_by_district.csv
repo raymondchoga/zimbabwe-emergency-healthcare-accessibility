@@ -1,0 +1,91 @@
+province,district,male,female,total,households,page
+Bulawayo,Bulawayo Urban District,307871,358081,665952,178716,8
+Manicaland,Buhera District,125747,146173,271920,64084,10
+Manicaland,Chimanimani District,73230,80389,153619,39155,11
+Manicaland,Chipinge Rural District,174277,200982,375259,84046,12
+Manicaland,Makoni District,140611,147830,288441,73086,13
+Manicaland,Mutare Rural District,147008,159752,306760,70560,14
+Manicaland,Mutasa District,93945,103863,197808,52370,15
+Manicaland,Nyanga District,70398,75829,146227,39354,16
+Manicaland,Mutare Urban District,106592,118212,224804,60355,17
+Manicaland,Rusape Town Council,17664,20242,37906,10566,18
+Manicaland,Chipinge Urban District,15878,19081,34959,9353,19
+Mashonaland Central,Bindura Rural District,84071,85770,169841,41255,21
+Mashonaland Central,Muzarabani District,66514,67562,134076,31100,22
+Mashonaland Central,Guruve District,75668,77938,153606,37206,23
+Mashonaland Central,Mazowe District,145760,147603,293363,75348,24
+Mashonaland Central,Mount Darwin District,118004,122724,240728,58071,25
+Mashonaland Central,Rushinga District,37056,39820,76876,18567,26
+Mashonaland Central,Shamva District,81141,84500,165641,38062,27
+Mashonaland Central,Mbire District,41012,42708,83720,19915,28
+Mashonaland Central,Bindura Urban District,24615,26779,51394,14044,29
+Mashonaland Central,Mvurwi District,7405,8241,15646,4417,30
+Mashonaland East,Chikomba District,59010,64922,123932,34010,32
+Mashonaland East,Goromonzi District,187131,199072,386203,101629,33
+Mashonaland East,Hwedza District,36482,38388,74870,19772,34
+Mashonaland East,Marondera Rural District,68169,68004,136173,37361,35
+Mashonaland East,Mudzi District,76354,82124,158478,39760,36
+Mashonaland East,Murehwa District,97553,107887,205440,54247,37
+Mashonaland East,Mutoko District,77607,83484,161091,40784,38
+Mashonaland East,Seke District,97565,102913,200478,52703,39
+Mashonaland East,Uzumba Maramba Pfungwe District,59930,64296,124226,30246,40
+Mashonaland East,Marondera Urban District,30810,35394,66204,18592,41
+Mashonaland East,Ruwa Local Board,44481,49597,94078,23562,42
+Mashonaland West,Chegutu Rural District,89598,89313,178911,46333,44
+Mashonaland West,Hurungwe District,194897,196000,390897,89115,45
+Mashonaland West,Mhondoro-Ngezi District,71597,69397,140994,35495,46
+Mashonaland West,Kariba Rural District,22523,23251,45774,11091,47
+Mashonaland West,Makonde District,106287,103673,209960,48856,48
+Mashonaland West,Zvimba District,171999,176003,348002,87846,49
+Mashonaland West,Sanyati District,70176,69059,139235,32597,50
+Mashonaland West,Chinhoyi Urban,48447,55210,103657,27766,51
+Mashonaland West,Kadoma District,55699,61682,117381,30630,52
+Mashonaland West,Chegutu Urban District,31370,34890,66260,17355,53
+Mashonaland West,Kariba Urban District,13687,14223,27910,7699,54
+Mashonaland West,Norton Town Council,40997,46042,87039,21966,55
+Mashonaland West,Karoi Town Council,17363,20201,37564,10116,56
+Matabeleland North,Binga District,72383,87599,159982,39495,58
+Matabeleland North,Bubi District,39049,35035,74084,18252,59
+Matabeleland North,Hwange Rural District,33676,35681,69357,17925,60
+Matabeleland North,Lupane District,51095,56153,107248,23028,61
+Matabeleland North,Nkayi District,54099,58372,112471,24017,62
+Matabeleland North,Tsholotsho District,53813,61969,115782,26668,63
+Matabeleland North,Umguza District,59116,54149,113265,28358,64
+Matabeleland North,Hwange Urban District,20111,20130,40241,11441,65
+Matabeleland North,Victoria Falls,16671,18544,35215,10242,66
+Matabeleland South,Beitbridge Rural District,44351,49650,94001,23197,68
+Matabeleland South,Bulilima District,39488,46112,85600,20837,69
+Matabeleland South,Mangwe District,31049,34513,65562,15570,70
+Matabeleland South,Gwanda Rural District,61568,62980,124548,31473,71
+Matabeleland South,Insiza District,62090,60813,122903,30372,72
+Matabeleland South,Matobo District,47088,48606,95694,23771,73
+Matabeleland South,Umzingwane District,36961,34899,71860,17958,74
+Matabeleland South,Gwanda Urban District,12770,14373,27143,8375,75
+Matabeleland South,Beitbridge Urban District,28457,30117,58574,17564,76
+Matabeleland South,Plumtree District,6695,7765,14460,4211,77
+Midlands,Chirumanzu District,45572,49700,95272,24556,79
+Midlands,Gokwe North District,119857,129866,249723,55232,80
+Midlands,Gokwe South District,151738,165816,317554,70264,81
+Midlands,Gweru Rural District,60400,61312,121712,30226,82
+Midlands,Kwekwe Rural District,98763,98299,197062,47358,83
+Midlands,Mberengwa District,99307,109151,208458,48678,84
+Midlands,Shurugwi Rural District,48604,49711,98315,24096,85
+Midlands,Zvishavane Rural District,41291,43744,85035,19719,86
+Midlands,Gweru Urban District,74434,86860,161294,44808,87
+Midlands,Kwekwe Urban District,56550,63313,119863,31311,88
+Midlands,Redcliff,19401,22125,41526,11203,89
+Midlands,Zvishavane Urban District,28207,31507,59714,17115,90
+Midlands,Gokwe Town Centre,14930,18143,33073,9188,91
+Midlands,Shurugwi Urban District,11376,11928,23304,6490,92
+Masvingo,Bikita District,80833,96002,176835,42916,94
+Masvingo,Chiredzi Rural District,146503,157000,303503,71885,95
+Masvingo,Chivi Districts,79550,93429,172979,40313,96
+Masvingo,Gutu District,95824,112325,208149,53593,97
+Masvingo,Masvingo Rural District,112543,125560,238103,57891,98
+Masvingo,Mwenezi District,96980,112347,209327,43603,99
+Masvingo,Zaka District,90892,107997,198889,46206,100
+Masvingo,Masvingo Urban District,41313,48973,90286,25272,101
+Masvingo,Chiredzi Urban District,18975,21482,40457,11546,102
+Harare,Harare Urban District,884613,965004,1849617,500651,104
+Harare,Chitungwiza Urban District,173468,197778,371246,96221,105
+Harare,Epworth,101269,105099,206368,56685,106
